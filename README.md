@@ -1,6 +1,7 @@
 "Bubble Generator" was a school project which took me 2 days to make.
 
 - JavaScript
+- HTML
 - CSS
 
 Test: https://katorip.github.io
