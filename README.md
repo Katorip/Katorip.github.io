@@ -20,5 +20,6 @@ config object which is used to define the operation so that it can be changed ea
 
 When the bubble is clicked, console shows the number of the clicked bubble.
 
+![2022-10-23 (14)](https://user-images.githubusercontent.com/49474727/197408848-afb8e39d-cbfd-4890-9211-cf1e650dc08e.png)
 
-![Kuva1](https://user-images.githubusercontent.com/49474727/197408661-2a1310c5-4b8d-45aa-90f9-c1012ac4f032.png)
+
