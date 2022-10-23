@@ -19,6 +19,3 @@ movement (requestAnimationFrame can also be used). Use JS objects and classes as
 config object which is used to define the operation so that it can be changed easily. Do not pollute the namespace.
 
 When the bubble is clicked, console shows the number of the clicked bubble.
-
-From this assignment, copy the js file(s) into the document, take a screenshot from the ui and add a link to niisku or
-somewhere, where the live bubbles can be seen.
