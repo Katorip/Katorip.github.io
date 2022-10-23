@@ -19,3 +19,6 @@ movement (requestAnimationFrame can also be used). Use JS objects and classes as
 config object which is used to define the operation so that it can be changed easily. Do not pollute the namespace.
 
 When the bubble is clicked, console shows the number of the clicked bubble.
+
+
+![Kuva1](https://user-images.githubusercontent.com/49474727/197408661-2a1310c5-4b8d-45aa-90f9-c1012ac4f032.png)
